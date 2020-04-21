@@ -1,0 +1,15 @@
+﻿Blaž:Baliž:27.7.1995:Napad:Člani:1000000:100:200
+Cristiano:Ronaldo:5.2.1985:Napad:Člani:31000000:196:184
+Ronaldo:Nazario De Lima:18.9.1976:Napad:Člani:80000000:127:83
+Bruno:Fernandes:8.9.1994:Sredina:Člani:4000000:83:93
+Kevin:De Bruyne:29.6.1991:Sredina:Člani:8000000:142:31
+Kalidou:Koulibaly:20.6.1991:Obramba:Člani:3600000:173:10
+Jan:Oblak:7.1.1993:Golman:Člani:15000000:180:0
+Miguel:Angel:1.1.2012:Napad:Mladinci:0:30:12
+Duke:Nukem:3.5.2014:Sredina:Mladinci:0:27:5
+Jaka:Racman:4.2.2011:Obramba:Mladinci:0:25:1:
+Miki:Miska:1.8.2012:Golman:Mladinci:0:34:0
+Tuen:Karantino:1.3.2005:Napad:Kadeti:0:60:42
+Gerald:of Rivia:3.6.2002:Sredina:Kadeti:0:57:12
+Kil:Jaeden:16.1.2007:Obramba:Kadeti:0:44:2
+Lich:King:13.11.2008:Golman:Kadeti:0:76:0
